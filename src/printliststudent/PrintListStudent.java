@@ -15,6 +15,9 @@ public class PrintListStudent {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        public String name;
+        public int id;
+        public double fees;
     }
     
 }
